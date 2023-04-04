@@ -1,0 +1,13 @@
+[
+  {
+	"side": "Server",
+    "op": "add",
+    "path": "/attributes/juiceableProperties",
+    "value": { 
+				litresPerItem: 1,
+				liquidStack: { type: "item", code: "honeyportion", stacksize: 1 },
+				pressedStack: { type: "item", code: "fgpressedwax", stacksize: 1 }
+			},
+    "file": "itemtypes/resource/honeycomb.json"
+  }
+]
